@@ -1,2 +1,2 @@
 # ProjetoTeste
-Teste de Criação de Game 3D na Unity
+Por enquanto é um projeto de teste de um jogo 3D na Unity
